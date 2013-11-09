@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "XKCD 1288",
+  "version": "1.0",
+  "description": "Replaces words according to xkcd 1288 - http://xkcd.com/1288/",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content_script.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
+
