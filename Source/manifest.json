@@ -3,6 +3,9 @@
   "name": "XKCD 1288",
   "version": "1.0",
   "description": "Replaces words according to xkcd 1288 - http://xkcd.com/1288/",
+  "author": "Ilya Shaisultanov",
+  "default_locale": "en",
+  "homepage_url": "https://github.com/diversario/xkcd1288",
   "content_scripts": [
     {
       "matches": ["*://*/*"],
