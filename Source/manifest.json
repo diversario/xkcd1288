@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "XKCD 1288",
-  "version": "1.1",
+  "version": "1.2",
   "description": "Replaces words according to xkcd 1288 - http://xkcd.com/1288/",
   "author": "Ilya Shaisultanov",
   "homepage_url": "https://github.com/diversario/xkcd1288",
